@@ -1,4 +1,4 @@
-android_device_huawei_y210
+Huong dan
 ==========================
 
-Ma nguon xay dung recovery cua may viettel v8404
+Day la Ma nguon xay dung recovery cua may viettel v8404
